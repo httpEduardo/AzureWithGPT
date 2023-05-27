@@ -1,3 +1,6 @@
-# python-azure-chatgpt
-Azure demo with form recognizer, storage, search service and chatgpt
-# AzureWithGPT
+# azure-chatgpt
+
+
+Demonstração do Azure com reconhecedor de formulário, armazenamento, serviço de pesquisa e chatgpt.
+
+Ainda está sendo melhorado.
